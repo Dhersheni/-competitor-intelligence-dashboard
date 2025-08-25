@@ -1,0 +1,88 @@
+{
+    "competitors": [
+        {
+            "name": "Microsoft",
+            "website_update": "Your request has been blocked. This could be\r\n                        due to several reasons.",
+            "app_update": "No update yet",
+            "social_update": "No social updates",
+            "last_updated": "2025-08-25 15:48:45"
+        },
+        {
+            "name": "Apple",
+            "website_update": "Newsroom",
+            "app_update": "No update yet",
+            "social_update": "No social updates",
+            "last_updated": "2025-08-25 15:48:46"
+        },
+        {
+            "name": "NVIDIA",
+            "website_update": "Featured News",
+            "app_update": "No update yet",
+            "social_update": "No social updates",
+            "last_updated": "2025-08-25 15:48:47"
+        },
+        {
+            "name": "Microsoft",
+            "website_update": "Tweet: 'Pushing AI boundaries!'",
+            "app_update": "Teams v2.6 released",
+            "social_update": "Teams v2.6 released",
+            "last_updated": "2025-08-25 19:59:13"
+        },
+        {
+            "name": "Apple",
+            "website_update": "Website updated with new blog",
+            "app_update": "Teams v2.6 released",
+            "social_update": "Website updated with new blog",
+            "last_updated": "2025-08-25 19:59:13"
+        },
+        {
+            "name": "NVIDIA",
+            "website_update": "Website updated with new blog",
+            "app_update": "New AI Copilot features announced",
+            "social_update": "New AI Copilot features announced",
+            "last_updated": "2025-08-25 19:59:13"
+        },
+        {
+            "name": "Microsoft",
+            "website_update": "Teams v2.6 released",
+            "app_update": "New AI Copilot features announced",
+            "social_update": "Website updated with new blog",
+            "last_updated": "2025-08-25 19:59:59"
+        },
+        {
+            "name": "Apple",
+            "website_update": "Teams v2.6 released",
+            "app_update": "Teams v2.6 released",
+            "social_update": "Teams v2.6 released",
+            "last_updated": "2025-08-25 20:00:00"
+        },
+        {
+            "name": "NVIDIA",
+            "website_update": "Teams v2.6 released",
+            "app_update": "Teams v2.6 released",
+            "social_update": "Website updated with new blog",
+            "last_updated": "2025-08-25 20:00:00"
+        },
+        {
+            "name": "Microsoft",
+            "website_update": "Teams v2.6 released",
+            "app_update": "Website updated with new blog",
+            "social_update": "Tweet: 'Pushing AI boundaries!'",
+            "last_updated": "2025-08-25 20:18:23"
+        },
+        {
+            "name": "Apple",
+            "website_update": "Tweet: 'Pushing AI boundaries!'",
+            "app_update": "New AI Copilot features announced",
+            "social_update": "New AI Copilot features announced",
+            "last_updated": "2025-08-25 20:18:23"
+        },
+        {
+            "name": "NVIDIA",
+            "website_update": "Website updated with new blog",
+            "app_update": "New AI Copilot features announced",
+            "social_update": "Website updated with new blog",
+            "last_updated": "2025-08-25 20:18:23"
+        }
+    ]
+}

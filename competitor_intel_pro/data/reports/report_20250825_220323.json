@@ -1,0 +1,25 @@
+{
+    "competitors": [
+        {
+            "name": "Microsoft",
+            "website_update": "Your request has been blocked. This could be\r\n                        due to several reasons.",
+            "app_update": "No update yet",
+            "social_update": "No social updates",
+            "last_updated": "2025-08-25 15:50:15"
+        },
+        {
+            "name": "Apple",
+            "website_update": "Newsroom",
+            "app_update": "No update yet",
+            "social_update": "No social updates",
+            "last_updated": "2025-08-25 15:50:16"
+        },
+        {
+            "name": "NVIDIA",
+            "website_update": "Featured News",
+            "app_update": "No update yet",
+            "social_update": "No social updates",
+            "last_updated": "2025-08-25 15:50:16"
+        }
+    ]
+}

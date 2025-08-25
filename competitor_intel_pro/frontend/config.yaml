@@ -1,0 +1,17 @@
+competitors:
+  - https://www.microsoft.com
+  - https://www.apple.com
+  - https://www.nvidia.com
+
+apps:
+  - com.microsoft.teams
+  - com.apple.AppStore
+  - com.nvidia.geforcenow
+
+social_handles:
+  - twitter: @Microsoft
+  - twitter: @Apple
+  - twitter: @nvidia
+  - instagram: @microsoft
+  - instagram: @apple
+  - instagram: @nvidia

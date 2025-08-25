@@ -1,0 +1,22 @@
+{
+  "competitors": [
+    {
+      "name": "Microsoft",
+      "website_update": "New AI Copilot features announced",
+      "app_update": "Microsoft Teams v2.5 released",
+      "social_update": "Excited to push boundaries with AI at work!"
+    },
+    {
+      "name": "Apple",
+      "website_update": "iPhone 16 launched",
+      "app_update": "App Store UI updated",
+      "social_update": "Check out the latest iPhone features!"
+    },
+    {
+      "name": "NVIDIA",
+      "website_update": "RTX 5090 GPUs coming soon",
+      "app_update": "GeForce Now update v3.2",
+      "social_update": "Pushing graphics limits with new RTX GPUs!"
+    }
+  ]
+}
